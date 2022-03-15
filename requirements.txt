@@ -10,8 +10,8 @@ Flask-Gravatar==0.5.0
 Flask-Login==0.5.0
 Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.0.0
-idna==2.10
-itsdangerous==1.1.0
+idna==3.3
+itsdangerous==2.1.0
 Jinja2==3.0.3
 MarkupSafe==2.1.0
 requests==2.27.1
